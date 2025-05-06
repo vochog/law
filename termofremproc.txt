@@ -1,0 +1,74 @@
+Yes, you can absolutely use those facts — spouse is a lawful permanent resident and child is a U.S. citizen with autism — to support a request for prosecutorial discretion (PD) or dismissal of removal proceedings, but the legal basis is slightly different than adjustment through a U.S. citizen spouse.
+
+Here’s how you can use these facts legally and effectively:
+
+
+---
+
+Legal and Policy Basis You Can Use
+
+1. Prosecutorial Discretion (PD) – Based on Family Hardship and Humanitarian Factors
+
+While not codified in statute, ICE and DHS have long exercised prosecutorial discretion in removal cases — especially where:
+
+The individual has deep ties to the U.S.
+
+The person is not a public safety or border priority, and
+
+Dismissing the case serves the public interest.
+
+
+Legal Guidance:
+
+DHS enforcement priorities (2011 Morton Memo, 2021 Mayorkas Memo – both rescinded, but courts still reference them as persuasive).
+
+EOIR Guidance and OPLA Discretionary Dismissals (2022 memo issued under Biden administration, though officially withdrawn in 2023, many ICE offices still consider humanitarian factors informally).
+
+
+You can ask ICE Office of Chief Counsel to join a motion to dismiss based on:
+
+Spouse is a green card holder (I-130 can still be filed and approved).
+
+U.S. citizen child with autism — this shows strong equities and potential hardship to the family if the parent were deported.
+
+
+
+---
+
+2. INA § 240(c)(4)(A) — Relief Based on Exceptional and Extremely Unusual Hardship (For Non-LPR Cancellation of Removal)
+
+Even though this is specific to cancellation of removal, you can reference this standard to describe the level of hardship your child would suffer:
+
+> The applicant must demonstrate that removal would result in “exceptional and extremely unusual hardship” to a U.S. citizen or LPR spouse, parent, or child.
+
+
+
+Use this language to describe the impact on your autistic U.S. citizen child.
+
+
+
+---
+
+3. Humanitarian Discretion in Adjustment (INA § 245(a))
+
+Although INA § 245(a) doesn’t guarantee adjustment through a green card–holding spouse, if a visa number becomes available (check the Visa Bulletin), you can:
+
+File I-130 through the LPR spouse.
+
+Request DHS to dismiss proceedings, then apply for I-485 with USCIS once eligible.
+
+
+
+---
+
+Example Use in a Motion or Request Letter
+
+> The Respondent is married to a lawful permanent resident and has a U.S. citizen son diagnosed with autism, whose well-being depends significantly on his father’s presence and care. Respondent has no criminal history and is not a DHS enforcement priority. In light of these strong humanitarian equities, Respondent respectfully requests prosecutorial discretion and a joint motion to dismiss under 8 C.F.R. § 1239.2(c), consistent with DHS’s historical discretion policies and EOIR guidance.
+
+
+
+
+---
+
+Would you like a tailored sample request letter or motion template using these facts?
+
